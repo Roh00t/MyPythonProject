@@ -1,2 +1,0 @@
-# PythonProject
- My Python Project
